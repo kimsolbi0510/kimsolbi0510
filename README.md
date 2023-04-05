@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning WEB
+- 📫 How to reach me: solbig0510@gmail.com
+
+
 <!--
 **kimsolbi0510/kimsolbi0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
